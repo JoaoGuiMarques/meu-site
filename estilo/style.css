@@ -70,19 +70,19 @@ div > p {
 }
 
 main img.Amora {
-    margin-left: 200px;
+    margin-left: 400px;
     margin-top: 10px;
 }
 
 main img.Melody {
-    margin-left: 275px;
+    margin-left: 600px;
     margin-top: 10px;
 }
 
 main p.Mel, p.Mor {
     display: inline-block;
-    margin-right: 10px;
-    margin-left: 316px;
+    margin-right: 212px;
+    margin-left: 638px;
     margin-top: 10px;
 
     font-family: var(--fonte-padrao);
